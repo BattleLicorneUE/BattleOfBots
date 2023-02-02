@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AimAssistSystem",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Dmitriy Vergasov",
+	"CreatedByURL": "https://www.linkedin.com/in/rim2812/",
+	"DocsURL": "https://dmitriy-vergasov.gitbook.io/pro-aim-assist/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/23b74dcd4fd84a968c21a67f3a4be0d6",
+	"SupportURL": "https://discord.gg/vMCTHFz",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "AimAssistSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux",
+				"IOS",
+				"Android",
+				"Mac"
+			]
+		}
+	]
+}
